@@ -1,0 +1,7 @@
+name = "Chapter1"
+version = "0.1.0"
+defaultTargets = []
+
+[[lean_exe]]
+name = "Chapter1_1"
+root = "Chapter1_1"
